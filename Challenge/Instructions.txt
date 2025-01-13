@@ -1,0 +1,96 @@
+
+
+# Deployment Instructions 
+
+## Prepare the Server Environment
+
+### Install Python
+1. Download and install the latest version of Python (>=3.8) from [Python.org](https://www.python.org/).
+2. During installation, ensure the "Add Python to PATH" option is selected.
+
+### Install Required Python Libraries
+1. Open a command prompt and install the necessary libraries:
+    ```bash
+    pip install pandas apscheduler openpyxl
+    ```
+2. Verify Python installation:
+    ```bash
+    python --version
+    pip list
+    ```
+
+---
+
+## Deploy the Script
+
+### Transfer the Script and Files
+1. Copy the Python script `Challenge.py` and the required `Availability.xlsx` file to a folder on the server, such as:
+    ```
+    C:\Scripts\StockSync\
+    ```
+2. Ensure the folder has write permissions for creating and updating the log file (`luminovo_sync.log`).
+
+---
+
+## Schedule the Script
+
+### Use Task Scheduler
+1. Open Task Scheduler:
+    - Press `Win + R`, type `taskschd.msc`, and press Enter.
+
+2. Create a New Task:
+    - Click on "Create Basic Task..." on the right-hand menu.
+
+3. Configure the Task:
+    - **Name**: Provide a meaningful name (e.g., "Luminovo Stock Sync").
+    - **Trigger**: Select "Daily" and set the time to `2:00 AM`.
+    - **Action**: Choose "Start a Program."
+
+4. Set the Script to Run:
+    - In the "Program/script" field, enter the path to `python.exe`. For example:
+      ```
+      C:\Python39\python.exe
+      ```
+    - In the "Add arguments" field, specify the script file path:
+      ```
+      C:\Scripts\StockSync\Challenge.py
+      ```
+
+5. Set Working Directory (Optional):
+    - If needed, set the working directory to the script's folder.
+
+6. Save and Test:
+    - Save the task and manually run it to ensure the script executes as expected.
+
+---
+
+## Validate Execution
+
+### Check Logs
+1. After execution, check the `luminovo_sync.log` file in the script directory for status updates.
+
+### Monitor Scheduled Execution
+1. Verify Task Scheduler logs to confirm the script runs daily at the specified time.
+
+---
+
+## Handling Updates
+
+### Script Updates
+1. Replace the script file (`Challenge.py`) in the deployment directory.
+2. Test the updated script by manually running the scheduled task.
+
+---
+
+## Troubleshooting
+
+- **File Not Found**:
+  - Ensure the `Availability.xlsx` file is placed in the same directory as the script before the scheduled time.
+  
+- **Python Not Recognized**:
+  - Verify Python is added to the PATH environment variable.
+
+---
+
+With these steps, the `Challenge.py` script will be deployed, scheduled, and ready to handle daily synchronization tasks automatically.
+

@@ -1,0 +1,356 @@
+[2025-01-13 00:55:58] Failed to fetch access token: 401, 
+[2025-01-13 00:55:58] An error occurred: Failed to fetch access token: 401, 
+[2025-01-13 17:17:22] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:17:33] Scheduler stopped.
+[2025-01-13 17:21:31] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:24:53] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:27:14] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:30:25] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:33:00] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:33:28] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:34:03] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:44:34] Starting the script...
+[2025-01-13 17:44:34] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:46:49] Starting the script...
+[2025-01-13 17:46:49] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:46:50] Sync stock job started.
+[2025-01-13 17:46:50] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:46:50] Checking if the file exists...
+[2025-01-13 17:46:50] Error: File 'Availability.xlsx' does not exist.
+[2025-01-13 17:46:50] An error occurred: File 'Availability.xlsx' does not exist.
+[2025-01-13 17:47:00] Sync stock job started.
+[2025-01-13 17:47:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:47:00] Checking if the file exists...
+[2025-01-13 17:47:00] Error: File 'Availability.xlsx' does not exist.
+[2025-01-13 17:47:00] An error occurred: File 'Availability.xlsx' does not exist.
+[2025-01-13 17:47:10] Sync stock job started.
+[2025-01-13 17:47:10] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:47:10] Checking if the file exists...
+[2025-01-13 17:47:10] Error: File 'Availability.xlsx' does not exist.
+[2025-01-13 17:47:10] An error occurred: File 'Availability.xlsx' does not exist.
+[2025-01-13 17:47:20] Sync stock job started.
+[2025-01-13 17:47:20] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:47:20] Checking if the file exists...
+[2025-01-13 17:47:20] Error: File 'Availability.xlsx' does not exist.
+[2025-01-13 17:47:20] An error occurred: File 'Availability.xlsx' does not exist.
+[2025-01-13 17:47:30] Sync stock job started.
+[2025-01-13 17:47:30] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:47:30] Checking if the file exists...
+[2025-01-13 17:47:30] Error: File 'Availability.xlsx' does not exist.
+[2025-01-13 17:47:30] An error occurred: File 'Availability.xlsx' does not exist.
+[2025-01-13 17:50:52] Starting the script...
+[2025-01-13 17:50:52] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:51:00] Sync stock job started.
+[2025-01-13 17:51:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:51:00] Error: File 'Availability.xlsx' does not exist. Skipping this run.
+[2025-01-13 17:51:10] Sync stock job started.
+[2025-01-13 17:51:10] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:51:10] Error: File 'Availability.xlsx' does not exist. Skipping this run.
+[2025-01-13 17:51:20] Sync stock job started.
+[2025-01-13 17:51:20] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:51:20] Error: File 'Availability.xlsx' does not exist. Skipping this run.
+[2025-01-13 17:51:30] Sync stock job started.
+[2025-01-13 17:51:30] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:51:30] Error: File 'Availability.xlsx' does not exist. Skipping this run.
+[2025-01-13 17:51:40] Sync stock job started.
+[2025-01-13 17:51:40] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:51:40] Error: File 'Availability.xlsx' does not exist. Skipping this run.
+[2025-01-13 17:51:50] Sync stock job started.
+[2025-01-13 17:51:50] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:51:50] Error: File 'Availability.xlsx' does not exist. Skipping this run.
+[2025-01-13 17:52:00] Sync stock job started.
+[2025-01-13 17:52:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:52:00] Error: File 'Availability.xlsx' does not exist. Skipping this run.
+[2025-01-13 17:52:10] Sync stock job started.
+[2025-01-13 17:52:10] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:52:10] Error: File 'Availability.xlsx' does not exist. Skipping this run.
+[2025-01-13 17:52:20] Sync stock job started.
+[2025-01-13 17:52:20] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:52:20] Error: File 'Availability.xlsx' does not exist. Skipping this run.
+[2025-01-13 17:52:30] Sync stock job started.
+[2025-01-13 17:52:30] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:52:30] Error: File 'Availability.xlsx' does not exist. Skipping this run.
+[2025-01-13 17:52:49] Starting the script...
+[2025-01-13 17:52:49] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:52:50] Sync stock job started.
+[2025-01-13 17:52:50] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:52:50] Error: File 'Availability.xlsx' does not exist. Stopping the scheduler.
+[2025-01-13 17:53:49] Starting the script...
+[2025-01-13 17:53:49] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:53:50] Sync stock job started.
+[2025-01-13 17:53:50] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:53:50] Checking if the file exists...
+[2025-01-13 17:53:50] Loading data from Availability.xlsx.
+[2025-01-13 17:53:51] Error loading file 'Availability.xlsx': Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:53:51] An error occurred: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:54:00] Sync stock job started.
+[2025-01-13 17:54:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:54:00] Checking if the file exists...
+[2025-01-13 17:54:00] Loading data from Availability.xlsx.
+[2025-01-13 17:54:00] Error loading file 'Availability.xlsx': Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:54:00] An error occurred: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:54:10] Sync stock job started.
+[2025-01-13 17:54:10] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:54:10] Checking if the file exists...
+[2025-01-13 17:54:10] Loading data from Availability.xlsx.
+[2025-01-13 17:54:10] Error loading file 'Availability.xlsx': Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:54:10] An error occurred: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:54:20] Sync stock job started.
+[2025-01-13 17:54:20] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:54:20] Checking if the file exists...
+[2025-01-13 17:54:20] Loading data from Availability.xlsx.
+[2025-01-13 17:54:20] Error loading file 'Availability.xlsx': Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:54:20] An error occurred: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:54:30] Sync stock job started.
+[2025-01-13 17:54:30] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:54:30] Checking if the file exists...
+[2025-01-13 17:54:30] Loading data from Availability.xlsx.
+[2025-01-13 17:54:30] Error loading file 'Availability.xlsx': Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:54:30] An error occurred: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:54:40] Sync stock job started.
+[2025-01-13 17:54:40] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:54:40] Checking if the file exists...
+[2025-01-13 17:54:40] Loading data from Availability.xlsx.
+[2025-01-13 17:54:41] Error loading file 'Availability.xlsx': Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:54:41] An error occurred: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:54:50] Sync stock job started.
+[2025-01-13 17:54:50] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:54:50] Checking if the file exists...
+[2025-01-13 17:54:50] Loading data from Availability.xlsx.
+[2025-01-13 17:54:50] Error loading file 'Availability.xlsx': Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:54:50] An error occurred: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-01-13 17:55:59] Starting the script...
+[2025-01-13 17:55:59] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:56:00] Sync stock job started.
+[2025-01-13 17:56:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:56:00] Checking if the file exists...
+[2025-01-13 17:56:00] Loading data from Availability.xlsx.
+[2025-01-13 17:56:29] Data transformed successfully.
+[2025-01-13 17:56:29] Mock: Sending data to the API...
+[2025-01-13 17:56:29] Mock: Payload size: 24 records.
+[2025-01-13 17:56:29] Mock: Data sent successfully.
+[2025-01-13 17:56:30] Sync stock job started.
+[2025-01-13 17:56:30] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:56:30] Checking if the file exists...
+[2025-01-13 17:56:30] Loading data from Availability.xlsx.
+[2025-01-13 17:56:30] Data transformed successfully.
+[2025-01-13 17:56:30] Mock: Sending data to the API...
+[2025-01-13 17:56:30] Mock: Payload size: 24 records.
+[2025-01-13 17:56:30] Mock: Data sent successfully.
+[2025-01-13 17:56:40] Sync stock job started.
+[2025-01-13 17:56:40] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:56:40] Checking if the file exists...
+[2025-01-13 17:56:40] Loading data from Availability.xlsx.
+[2025-01-13 17:56:42] Data transformed successfully.
+[2025-01-13 17:56:42] Mock: Sending data to the API...
+[2025-01-13 17:56:43] Mock: Payload size: 24 records.
+[2025-01-13 17:56:43] Mock: Data sent successfully.
+[2025-01-13 17:56:50] Sync stock job started.
+[2025-01-13 17:56:50] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:56:50] Checking if the file exists...
+[2025-01-13 17:56:50] Loading data from Availability.xlsx.
+[2025-01-13 17:56:52] Data transformed successfully.
+[2025-01-13 17:56:52] Mock: Sending data to the API...
+[2025-01-13 17:56:52] Mock: Payload size: 24 records.
+[2025-01-13 17:56:52] Mock: Data sent successfully.
+[2025-01-13 17:57:00] Sync stock job started.
+[2025-01-13 17:57:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:57:00] Checking if the file exists...
+[2025-01-13 17:57:00] Loading data from Availability.xlsx.
+[2025-01-13 17:57:01] Data transformed successfully.
+[2025-01-13 17:57:01] Mock: Sending data to the API...
+[2025-01-13 17:57:01] Mock: Payload size: 24 records.
+[2025-01-13 17:57:01] Mock: Data sent successfully.
+[2025-01-13 17:57:28] Starting the script...
+[2025-01-13 17:57:28] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 17:57:30] Sync stock job started.
+[2025-01-13 17:57:30] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:57:30] Checking if the file exists...
+[2025-01-13 17:57:30] Loading data from Availability.xlsx.
+[2025-01-13 17:58:02] Data transformed successfully.
+[2025-01-13 17:58:02] Mock: Sending data to the API...
+[2025-01-13 17:58:02] Mock: Payload size: 24 records.
+[2025-01-13 17:58:02] Mock: Data sent successfully.
+[2025-01-13 17:58:10] Sync stock job started.
+[2025-01-13 17:58:10] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:58:10] Checking if the file exists...
+[2025-01-13 17:58:10] Loading data from Availability.xlsx.
+[2025-01-13 17:58:11] Data transformed successfully.
+[2025-01-13 17:58:11] Mock: Sending data to the API...
+[2025-01-13 17:58:11] Mock: Payload size: 24 records.
+[2025-01-13 17:58:11] Mock: Data sent successfully.
+[2025-01-13 17:58:20] Sync stock job started.
+[2025-01-13 17:58:20] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:58:20] Checking if the file exists...
+[2025-01-13 17:58:20] Loading data from Availability.xlsx.
+[2025-01-13 17:58:21] Data transformed successfully.
+[2025-01-13 17:58:21] Mock: Sending data to the API...
+[2025-01-13 17:58:21] Mock: Payload size: 24 records.
+[2025-01-13 17:58:21] Mock: Data sent successfully.
+[2025-01-13 17:58:30] Sync stock job started.
+[2025-01-13 17:58:30] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:58:30] Checking if the file exists...
+[2025-01-13 17:58:30] Loading data from Availability.xlsx.
+[2025-01-13 17:58:31] Data transformed successfully.
+[2025-01-13 17:58:31] Mock: Sending data to the API...
+[2025-01-13 17:58:31] Mock: Payload size: 24 records.
+[2025-01-13 17:58:31] Mock: Data sent successfully.
+[2025-01-13 17:58:40] Sync stock job started.
+[2025-01-13 17:58:40] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:58:40] Checking if the file exists...
+[2025-01-13 17:58:40] Loading data from Availability.xlsx.
+[2025-01-13 17:58:41] Data transformed successfully.
+[2025-01-13 17:58:41] Mock: Sending data to the API...
+[2025-01-13 17:58:41] Mock: Payload size: 24 records.
+[2025-01-13 17:58:41] Mock: Data sent successfully.
+[2025-01-13 17:58:50] Sync stock job started.
+[2025-01-13 17:58:50] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:58:50] Checking if the file exists...
+[2025-01-13 17:58:50] Loading data from Availability.xlsx.
+[2025-01-13 17:58:51] Data transformed successfully.
+[2025-01-13 17:58:51] Mock: Sending data to the API...
+[2025-01-13 17:58:51] Mock: Payload size: 24 records.
+[2025-01-13 17:58:51] Mock: Data sent successfully.
+[2025-01-13 17:59:00] Sync stock job started.
+[2025-01-13 17:59:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:59:00] Checking if the file exists...
+[2025-01-13 17:59:00] Loading data from Availability.xlsx.
+[2025-01-13 17:59:01] Data transformed successfully.
+[2025-01-13 17:59:01] Mock: Sending data to the API...
+[2025-01-13 17:59:01] Mock: Payload size: 24 records.
+[2025-01-13 17:59:01] Mock: Data sent successfully.
+[2025-01-13 17:59:10] Sync stock job started.
+[2025-01-13 17:59:10] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:59:10] Checking if the file exists...
+[2025-01-13 17:59:10] Loading data from Availability.xlsx.
+[2025-01-13 17:59:10] Data transformed successfully.
+[2025-01-13 17:59:11] Mock: Sending data to the API...
+[2025-01-13 17:59:11] Mock: Payload size: 24 records.
+[2025-01-13 17:59:11] Mock: Data sent successfully.
+[2025-01-13 17:59:20] Sync stock job started.
+[2025-01-13 17:59:20] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:59:20] Checking if the file exists...
+[2025-01-13 17:59:20] Loading data from Availability.xlsx.
+[2025-01-13 17:59:21] Data transformed successfully.
+[2025-01-13 17:59:21] Mock: Sending data to the API...
+[2025-01-13 17:59:22] Mock: Payload size: 24 records.
+[2025-01-13 17:59:22] Mock: Data sent successfully.
+[2025-01-13 17:59:30] Sync stock job started.
+[2025-01-13 17:59:30] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:59:30] Checking if the file exists...
+[2025-01-13 17:59:30] Loading data from Availability.xlsx.
+[2025-01-13 17:59:31] Data transformed successfully.
+[2025-01-13 17:59:31] Mock: Sending data to the API...
+[2025-01-13 17:59:31] Mock: Payload size: 24 records.
+[2025-01-13 17:59:31] Mock: Data sent successfully.
+[2025-01-13 17:59:40] Sync stock job started.
+[2025-01-13 17:59:40] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:59:40] Checking if the file exists...
+[2025-01-13 17:59:40] Loading data from Availability.xlsx.
+[2025-01-13 17:59:41] Data transformed successfully.
+[2025-01-13 17:59:41] Mock: Sending data to the API...
+[2025-01-13 17:59:41] Mock: Payload size: 24 records.
+[2025-01-13 17:59:41] Mock: Data sent successfully.
+[2025-01-13 17:59:50] Sync stock job started.
+[2025-01-13 17:59:50] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 17:59:50] Checking if the file exists...
+[2025-01-13 17:59:50] Loading data from Availability.xlsx.
+[2025-01-13 17:59:51] Data transformed successfully.
+[2025-01-13 17:59:51] Mock: Sending data to the API...
+[2025-01-13 17:59:51] Mock: Payload size: 24 records.
+[2025-01-13 17:59:51] Mock: Data sent successfully.
+[2025-01-13 18:00:00] Sync stock job started.
+[2025-01-13 18:00:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 18:00:00] Checking if the file exists...
+[2025-01-13 18:00:00] Loading data from Availability.xlsx.
+[2025-01-13 18:00:01] Data transformed successfully.
+[2025-01-13 18:00:01] Mock: Sending data to the API...
+[2025-01-13 18:00:01] Mock: Payload size: 24 records.
+[2025-01-13 18:00:01] Mock: Data sent successfully.
+[2025-01-13 18:07:28] Starting the script...
+[2025-01-13 18:07:28] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 18:08:00] Sync stock job started.
+[2025-01-13 18:08:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 18:08:00] Checking if the file exists...
+[2025-01-13 18:08:00] Loading data from Availability.xlsx.
+[2025-01-13 18:08:39] Data transformed successfully.
+[2025-01-13 18:08:39] Mock: Sending data to the API...
+[2025-01-13 18:08:40] Mock: Payload size: 24 records.
+[2025-01-13 18:08:40] Mock: Data sent successfully.
+[2025-01-13 18:09:00] Sync stock job started.
+[2025-01-13 18:09:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 18:09:00] Checking if the file exists...
+[2025-01-13 18:09:00] Loading data from Availability.xlsx.
+[2025-01-13 18:09:02] Data transformed successfully.
+[2025-01-13 18:09:02] Mock: Sending data to the API...
+[2025-01-13 18:09:02] Mock: Payload size: 24 records.
+[2025-01-13 18:09:02] Mock: Data sent successfully.
+[2025-01-13 18:10:00] Sync stock job started.
+[2025-01-13 18:10:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 18:10:00] Checking if the file exists...
+[2025-01-13 18:10:00] Loading data from Availability.xlsx.
+[2025-01-13 18:10:02] Data transformed successfully.
+[2025-01-13 18:10:02] Mock: Sending data to the API...
+[2025-01-13 18:10:02] Mock: Payload size: 24 records.
+[2025-01-13 18:10:02] Mock: Data sent successfully.
+[2025-01-13 18:11:00] Sync stock job started.
+[2025-01-13 18:11:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 18:11:00] Checking if the file exists...
+[2025-01-13 18:11:00] Loading data from Availability.xlsx.
+[2025-01-13 18:11:01] Data transformed successfully.
+[2025-01-13 18:11:01] Mock: Sending data to the API...
+[2025-01-13 18:11:01] Mock: Payload size: 24 records.
+[2025-01-13 18:11:01] Mock: Data sent successfully.
+[2025-01-13 18:11:44] Starting the script...
+[2025-01-13 18:11:44] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 18:12:00] Sync stock job started.
+[2025-01-13 18:12:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 18:12:00] Checking if the file exists...
+[2025-01-13 18:12:00] Error: File 'Availability.xlsx' does not exist. Skipping this run.
+[2025-01-13 18:12:00] Sync stock job skipped due to missing or invalid file 'Availability.xlsx'.
+[2025-01-13 18:13:00] Sync stock job started.
+[2025-01-13 18:13:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 18:13:00] Checking if the file exists...
+[2025-01-13 18:13:00] Error: File 'Availability.xlsx' does not exist. Skipping this run.
+[2025-01-13 18:13:00] Sync stock job skipped due to missing or invalid file 'Availability.xlsx'.
+[2025-01-13 18:27:04] Starting the script...
+[2025-01-13 18:27:04] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 18:28:00] Sync stock job started.
+[2025-01-13 18:28:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 18:28:00] Checking if the file exists...
+[2025-01-13 18:28:00] Loading data from Availability.xlsx.
+[2025-01-13 18:28:40] Error: Missing required columns: ['Internal Part Number']. Skipping this run.
+[2025-01-13 18:28:40] Sync stock job skipped due to missing or invalid file 'Availability.xlsx'.
+[2025-01-13 18:36:19] Starting the script...
+[2025-01-13 18:36:19] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 18:41:42] Starting the script...
+[2025-01-13 18:41:42] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 18:44:36] Starting the script...
+[2025-01-13 18:44:36] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 18:45:00] Sync stock job started.
+[2025-01-13 18:45:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 18:45:00] Checking if the file exists...
+[2025-01-13 18:45:00] Loading data from Availability.xlsx.
+[2025-01-13 18:45:31] Data transformed successfully.
+[2025-01-13 18:45:31] Mock: Preparing to send data to the API...
+[2025-01-13 18:45:31] Mock: Payload contains 24 records.
+[2025-01-13 18:45:31] Mock: Data 'sent' successfully. (No actual API call was made)
+[2025-01-13 18:46:00] Sync stock job started.
+[2025-01-13 18:46:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 18:46:00] Checking if the file exists...
+[2025-01-13 18:46:00] Loading data from Availability.xlsx.
+[2025-01-13 18:46:01] Data transformed successfully.
+[2025-01-13 18:46:01] Mock: Preparing to send data to the API...
+[2025-01-13 18:46:01] Mock: Payload contains 24 records.
+[2025-01-13 18:46:01] Mock: Data 'sent' successfully. (No actual API call was made)
+[2025-01-13 18:47:00] Sync stock job started.
+[2025-01-13 18:47:00] Current working directory: C:\Users\User\source\repos\Challenge\Challenge
+[2025-01-13 18:47:00] Checking if the file exists...
+[2025-01-13 18:47:00] Loading data from Availability.xlsx.
+[2025-01-13 21:33:52] Starting the script...
+[2025-01-13 21:33:52] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 21:36:18] Starting the script...
+[2025-01-13 21:36:18] Stock sync scheduler started. Press Ctrl+C to exit.
+[2025-01-13 21:38:03] Scheduler stopped.
+[2025-01-13 21:39:17] Starting the script...
+[2025-01-13 21:39:17] Stock sync scheduler started. Press Ctrl+C to exit.
