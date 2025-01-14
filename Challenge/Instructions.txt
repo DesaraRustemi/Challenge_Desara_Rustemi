@@ -33,6 +33,7 @@
 ---
 
 ## Schedule the Script
+## Right now the scheduling is done in the script, but this is an idea of it can also work.
 
 ### Use Task Scheduler
 1. Open Task Scheduler:

@@ -21,7 +21,7 @@
 ## Prerequisites
 
 ### 1. **Python**:
-- Ensure Python 3.8+ is installed on your system.
+- Ensure Python 3.12+ is installed on your system.(**I have locally python 3.12.3)
 - Download Python from [python.org](https://www.python.org/).
 
 ### 2. **Dependencies**:
@@ -45,7 +45,7 @@
     ```bash
     python Challenge.py
     ```
-- Check `luminovo_sync.log` for logs and errors.
+- Check `luminovo_sync.log` for logs and errors.In this file you can check what went well/wrong while executing the script.
 
 ### 2. **Automated Scheduling**:
 Use Task Scheduler (Windows):
